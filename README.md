@@ -17,18 +17,15 @@
 
 ## 👨‍💻 Programming and Markup Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=py"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,py"/>
 
 ## 🧰 Frameworks <!--  and Libraries -->
 
-<a href="https://www.djangoproject.com/"><img alt="Django" src=""></a>
+<img src="https://skillicons.dev/icons?i=django"/>
 
 ## 🗄️ Databases <!--  and Cloud Hosting -->
 
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
 <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a> -->
 
 ## 💻 Software and Tools
