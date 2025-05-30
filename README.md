@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="30" /></a>
 <a href="https://discordapp.com/users/638507310808956941" target="blank"><img align="center" src="" alt="discord" height="30" width="30" /></a> 
 
-<h2>👨‍💻 Programming and Markup Languages</h2>
+##👨‍💻 Programming and Markup Languages
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
@@ -24,17 +24,16 @@
 <!-- <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a> -->
 <!-- <a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
 
-<h2>🧰 Frameworks</h2> <!--  and Libraries -->
+##🧰 Frameworks <!--  and Libraries -->
 
 <a href="https://www.djangoproject.com/"><img alt="Django" src=""></a>
 
-<h2>🗄️ Databases</h2> <!--  and Cloud Hosting -->
+##🗄️ Databases <!--  and Cloud Hosting -->
 
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
 <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a> -->
 
-<h2>💻 Software and Tools</h2>
-
+##💻 Software and Tools
 
 <a href="#"><img alt="Linux Mint" src=""></a>
 <a href="#"><img alt="Ubuntu" src=""></a>
