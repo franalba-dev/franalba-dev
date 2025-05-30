@@ -42,4 +42,6 @@
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,brave,discord,git,github,obsstudio,vscode,codium" alt="Skills" />
 </a>
 
+<br>
+
 Last Edited on: 30/05/2025
