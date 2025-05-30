@@ -2,7 +2,7 @@
 
 <br>
 
-# 💫 Some stuff about me:
+## 💫 Some stuff about me:
 - 🎓 I am currently a **student** at [**Institut Guinovarda**](https://agora.xtec.cat/iesguinovarda/).
 - 💻 My objective is to be a **developer of web applications or cross-platform applications**.
 - 🇪🇸 I live in Catalonia, **Spain**.
