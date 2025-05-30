@@ -1,15 +1,14 @@
-
-<p>
-I'm Francisco Javier, a future developer of web applications or cross-platform applications. I live in Catalonia, Spain, and I mostly enjoy my time programming my own projects and playing video games with my friends.
-</p>
+<h1 align="center">Hi there, im Francisco J. / franalba-dev 👋 </h1> 
 
 # 💫 Some stuff about Me:
 - 🎓 I am currently a **student** in <a href="https://agora.xtec.cat/iesguinovarda/">**Institut Guinovarda**<a>.
-- 💻 My objective is to be a **developer of aplications**.
-- 🤔 My hobbies are **listen music 🎵 and play games🎮**.
-<!-- - 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)** -->
+- 💻 My objective is to be a **developer of web applications or cross-platform applications**.
+- 🇪🇸 I live in Catalonia, **Spain**.
+- 🤔 I mostly enjoy my free time programming my own projects and playing **video games 🎮** with my friends.
+- Right now I use [<img src="https://linuxmint.com/web/img/logo.svg" height="10em" align="center" alt="Linux Mint Logo" title="Linux Mint Logo" />](https://linuxmint.com/)
 - 💬 If you have any questions, **just ask me**.
-- Right now I use [<img src="https://linuxmint.com/web/img/logo.svg" height="30em" align="center" alt="Arch Linux Logo" title="Linux Mint Logo" />](https://linuxmint.com/)
+<!-- - 📝 Sometimes I write articles on **[My website](https://)** -->
+
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
