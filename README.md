@@ -16,9 +16,9 @@
 <a href="https://discordapp.com/users/638507310808956941" target="blank"><img align="center" src="" alt="discord" height="30" width="30" /></a> 
 
 ## 👨‍💻 Programming and Markup Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py"/>
-
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
+</a>
 ## 🧰 Frameworks <!--  and Libraries -->
 
 <img src="https://skillicons.dev/icons?i=django"/>
