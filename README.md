@@ -7,17 +7,14 @@
 - 💻 My objective is to be a **developer of web applications or cross-platform applications**.
 - 🇪🇸 I live in Catalonia, **Spain**.
 - 🤔 I mostly enjoy my free time programming my own projects and playing **video games 🎮** with my friends.
-- Right now I use [<img src="https://linuxmint.com/web/img/logo.svg" height="10em" align="center" alt="Linux Mint Logo" title="Linux Mint Logo" />](https://linuxmint.com/)
 - 💬 If you have any questions, **just ask me**.
 <!-- - 📝 Sometimes I write articles on **[My website](https://)** -->
 
 
 ## 📫 How to reach me:
-<p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://vibrantfix.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="30" /></a>
+<!-- <a href="" target="blank"><img align="center" src="" alt="website" height="30" width="30" /></a> -->
 
-</p>
 <br>
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vibrantfix.github.io/)](https://vibrantfix.github.io/)
