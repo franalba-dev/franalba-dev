@@ -13,10 +13,10 @@
 
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank">
+<a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://discordapp.com/users/638507310808956941" target="blank">
+<a href="https://discordapp.com/users/638507310808956941">
   <img src="https://skillicons.dev/icons?i=discord"/>
 </a> 
 
