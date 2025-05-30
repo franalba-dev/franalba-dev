@@ -1,25 +1,20 @@
-<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  I'm Yogesh I'm a final year student pursuing Bachelors's in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Full stack Web Development 🕸️ and working on python 🐍.
+
+<p>
+I'm Francisco Javier, a future developer of web applications or cross-platform applications. I live in Catalonia, Spain, and I mostly enjoy my time programming my own projects and playing video games with my friends.
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
-
-- 🎓 I am a **student**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and Python**. 
+# 💫 Some stuff about Me:
+- 🎓 I am currently a **student** in <a href="https://agora.xtec.cat/iesguinovarda/">**Institut Guinovarda**<a>.
+- 💻 My objective is to be a **developer of aplications**.
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
 <!-- - 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)** -->
 - 💬 If you have any questions, **just ask me**.
-- Right now I use Linux Mint [<img src="https://linuxmint.com/web/img/logo.svg" height="30em" align="center" alt="Arch Linux Logo" title="Linux Mint Logo" />](https://linuxmint.com/)
+- Right now I use [<img src="https://linuxmint.com/web/img/logo.svg" height="30em" align="center" alt="Arch Linux Logo" title="Linux Mint Logo" />](https://linuxmint.com/)
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="discord" height="30" width="30" /></a>
-<a href="https://telegram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
+<a href="https://vibrantfix.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
 <a href="https://vibrantfix.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
 </p>
 <br>
@@ -32,26 +27,18 @@
 
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
-<p>
-<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
+
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
+<!-- <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a> -->
+<!-- <a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
-
-</p>
-
-<h2>🧰 Frameworks and Libraries</h2>
+<h2>🧰 Frameworks</h2> <!--  and Libraries -->
 
 <p>
-<a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
-<a href="https://wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
+<a href="https://www.djangoproject.com/"><img alt="Django" src=""></a>
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
