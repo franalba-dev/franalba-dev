@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, im Francisco J. / franalba-dev 👋 </h1> 
 
+<br>
+
 # 💫 Some stuff about Me:
-- 🎓 I am currently a **student** in <a href="https://agora.xtec.cat/iesguinovarda/">**Institut Guinovarda**<a>.
+- 🎓 I am currently a **student** at <a href="https://agora.xtec.cat/iesguinovarda/" style="text-decoration: none;">**Institut Guinovarda**</a> 🇪🇸.
 - 💻 My objective is to be a **developer of web applications or cross-platform applications**.
 - 🇪🇸 I live in Catalonia, **Spain**.
 - 🤔 I mostly enjoy my free time programming my own projects and playing **video games 🎮** with my friends.
