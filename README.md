@@ -62,10 +62,6 @@
   <img alt="Vs Codium" src="https://img.shields.io/badge/Vs-Codium-0078d7.svg?logo=vs-codium&logoColor=white" />
 </a>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,brave,discord,git,github,obsstudio,vscode,codium" alt="Skills" />
-</a>
-
 <br>
 
 Last Edited on: 30/05/2025
