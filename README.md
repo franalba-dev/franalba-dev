@@ -14,8 +14,6 @@
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="30" /></a>
 
-<br>
-
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
