@@ -13,18 +13,10 @@
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="30" /></a>
-<!-- <a href="" target="blank"><img align="center" src="" alt="website" height="30" width="30" /></a> -->
 
 <br>
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vibrantfix.github.io/)](https://vibrantfix.github.io/)
-![Waka Readme](https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg)
-![HitCount](https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square)
-
-        
-
 <h2>👨‍💻 Programming and Markup Languages</h2>
-
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
@@ -33,23 +25,18 @@
 <!-- <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a> -->
 <!-- <a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
 
-
 <h2>🧰 Frameworks</h2> <!--  and Libraries -->
 
-<p>
 <a href="https://www.djangoproject.com/"><img alt="Django" src=""></a>
-</p>
 
-<h2>🗄️ Databases and Cloud Hosting</h2>
+<h2>🗄️ Databases</h2> <!--  and Cloud Hosting -->
 
-<p>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat"></a>
-</p>
 
 <h2>💻 Software and Tools</h2>
 
