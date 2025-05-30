@@ -13,6 +13,7 @@
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/638507310808956941" target="blank"><img align="center" src="" alt="discord" height="30" width="30" /></a> 
 
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
