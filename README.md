@@ -17,16 +17,10 @@
 
 ## 👨‍💻 Programming and Markup Languages
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=py"/>
 </a>
-
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<!-- <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a> -->
-<!-- <a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
 
 ## 🧰 Frameworks <!--  and Libraries -->
 
