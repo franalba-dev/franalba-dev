@@ -1,7 +1,3 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Yogesh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
-</h1>
-<br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
   I'm Yogesh I'm a final year student pursuing Bachelors's in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Full stack Web Development 🕸️ and working on python 🐍.
 </p>
@@ -14,9 +10,9 @@
 - 💻 Major is **Computer Science and Technology**.
 - 🌱 I'm currently learning **Web development and Python**. 
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
-- 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)**
+<!-- - 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)** -->
 - 💬 If you have any questions, **just ask me**.
-- btw I use Arch [<img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/)
+- Right now I use Linux Mint [<img src="https://linuxmint.com/web/img/logo.svg" height="30em" align="center" alt="Arch Linux Logo" title="Linux Mint Logo" />](https://linuxmint.com/)
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
@@ -89,25 +85,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge"></a>
 <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat"></a>
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
-</p>
-
-<h2>📊 Github Stats and Activity</h2>
-
-<h3>🔥 Streak Stats</h3>
-
-<p>
-<a href="#">
-<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=vibrantfix&theme=dracula&hide_border=true&background=000000EE"/>
-</a>
-</p>
-
-<h3>💻 GitHub Profile Stats</h3>
-
-<p>
-<a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-vibrantfix.vercel.app/api?username=vibrantfix&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=vibrantfix&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 Last Edited on: 30/05/2025
