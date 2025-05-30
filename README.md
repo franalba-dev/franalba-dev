@@ -40,26 +40,26 @@
 
 ## 💻 Software and Tools
 
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="#" target="_blank">
   <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white" />
 </a>
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="#" target="_blank">
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" />
 </a>
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="#" target="_blank">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" />
 </a>
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="#" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-8034A9.svg?logo=github&logoColor=white" />
 </a>
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="#" target="_blank">
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat" />
 </a>
-<a href="#" target="_blank" rel="noopener noreferrer">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<a href="#" target="_blank">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" />
 </a>
-<a href="#" target="_blank" rel="noopener noreferrer">
-  <img alt="Vs Codium" src="https://img.shields.io/badge/VSCodium-3C9BFF?style=for-the-badge&logo=codium&logoColor=white" />
+<a href="#" target="_blank"">
+  <img alt="Vs Codium" src="https://img.shields.io/badge/Vs-Codium-0078d7.svg?logo=vscodium&logoColor=white" />
 </a>
 
 
