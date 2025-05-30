@@ -24,16 +24,16 @@
 <!-- <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a> -->
 <!-- <a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
 
-##🧰 Frameworks <!--  and Libraries -->
+## 🧰 Frameworks <!--  and Libraries -->
 
 <a href="https://www.djangoproject.com/"><img alt="Django" src=""></a>
 
-##🗄️ Databases <!--  and Cloud Hosting -->
+## 🗄️ Databases <!--  and Cloud Hosting -->
 
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
 <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a> -->
 
-##💻 Software and Tools
+## 💻 Software and Tools
 
 <a href="#"><img alt="Linux Mint" src=""></a>
 <a href="#"><img alt="Ubuntu" src=""></a>
@@ -44,7 +44,7 @@
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Apache" src=""></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Vs Codium" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Vs Codium" src="https://img.shields.io/badge/Vs-Codium-0078d7.svg?logo=vs-codium&logoColor=white"></a>
 
 
 Last Edited on: 30/05/2025
