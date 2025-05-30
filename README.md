@@ -6,7 +6,7 @@
 - 🎓 I am currently a **student** at [**Institut Guinovarda**](https://agora.xtec.cat/iesguinovarda/).
 - 💻 My objective is to be a **developer of web applications or cross-platform applications**.
 - 🇪🇸 I live in Catalonia, **Spain**.
-- 🤔 I mostly enjoy my free time programming my own projects and playing **video games 🎮** with my friends.
+- 🤔 I mostly enjoy my free time programming my **own projects** and playing **video games 🎮** with my friends.
 - 💬 If you have any questions, **just ask me**.
 <!-- - 📝 Sometimes I write articles on **[My website](https://)** -->
 
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="30" /></a>
 <a href="https://discordapp.com/users/638507310808956941" target="blank"><img align="center" src="" alt="discord" height="30" width="30" /></a> 
 
-##👨‍💻 Programming and Markup Languages
+## 👨‍💻 Programming and Markup Languages
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
@@ -45,6 +45,5 @@
 <a href="#"><img alt="Apache" src=""></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Vs Codium" src="https://img.shields.io/badge/Vs-Codium-0078d7.svg?logo=vs-codium&logoColor=white"></a>
-
 
 Last Edited on: 30/05/2025
