@@ -6,7 +6,7 @@
 - 🎓 I am currently a **student** at [**Institut Guinovarda**](https://agora.xtec.cat/iesguinovarda/).
 - 💻 My objective is to be a **developer of web applications or cross-platform applications**.
 - 🇪🇸 I live in Catalonia, **Spain**.
-- 🤔 I mostly enjoy my free time programming my **own projects** and playing **video games 🎮** with my friends.
+- 🤔 I mostly enjoy my free time programming my **own projects** and playing **video games** with my friends.
 - 💬 If you have any questions, **just ask me**.
 <!-- - 📝 Sometimes I write articles on **[My website](https://)** -->
 
