@@ -12,21 +12,30 @@
 
 
 ## 📫 How to reach me:
-<a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="30" /></a>
-<a href="https://discordapp.com/users/638507310808956941" target="blank"><img align="center" src="" alt="discord" height="30" width="30" /></a> 
+
+<a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://discordapp.com/users/638507310808956941" target="blank">
+  <img src="https://skillicons.dev/icons?i=discord"/>
+</a> 
 
 ## 👨‍💻 Programming and Markup Languages
 <a href="#">
   <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
 </a>
+
 ## 🧰 Frameworks <!--  and Libraries -->
 
-<img src="https://skillicons.dev/icons?i=django"/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=django"/>
+</a>
 
 ## 🗄️ Databases <!--  and Cloud Hosting -->
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
-<!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a> -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
+</a>
 
 ## 💻 Software and Tools
 
