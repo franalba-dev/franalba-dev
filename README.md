@@ -61,9 +61,6 @@
 <a href="#" target="_blank"">
   <img alt="Vs Codium" src="https://img.shields.io/badge/Vs%20Codium-0078d7.svg?logo=vscodium&logoColor=white" />
 </a>
-<a href="#">
-  <img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
-</a>
 
 
 <br>
