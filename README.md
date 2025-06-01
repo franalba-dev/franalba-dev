@@ -3,7 +3,7 @@
 
 <br>
 
-## 💫 Some stuff about me:
+## 💫 Some stuff about me
 - 🎓 I am currently a **student** at [**Institut Guinovarda**](https://agora.xtec.cat/iesguinovarda/).
 - 💻 My objective is to be a **developer of web applications or cross-platform applications**.
 - 📍 I live in Catalonia, **Spain**.
@@ -12,7 +12,7 @@
 <!-- - 📝 Sometimes I write articles on **[My website](https://)** -->
 
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -60,6 +60,9 @@
 </a>
 <a href="#" target="_blank"">
   <img alt="Vs Codium" src="https://img.shields.io/badge/Vs%20Codium-0078d7.svg?logo=vscodium&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
 </a>
 
 
