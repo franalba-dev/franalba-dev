@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, im Francisco J. / franalba-dev 👋 </h1> 
-<img src="https://github.com/franalba-dev/franalba-dev/blob/main/banner-github.png?raw=true" alt="banner"></img>
+<img src="https://raw.githubusercontent.com/franalba-dev/franalba-dev/refs/heads/main/banner-github.png" alt="banner"></img>
 
 <br>
 
