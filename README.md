@@ -7,57 +7,30 @@
 - 🤔 I mostly enjoy my free time programming my **own projects** and playing **video games** with my friends.
 - 💬 If you have any questions, **just ask me**.
 - ⚠️ As a student, I'm still learning many of the skills listed below. I'm using these projects as a way to improve and gain experience, so I may not yet be at an advanced level in all of them.  
-<!-- - 📝 Sometimes I write articles on **[My website](https://)** -->
-
 
 ## 📫 How to reach me
 
-<a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="_blank" rel="noopener noreferrer">
-  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-0a66c2.svg"/>
-</a>
-<a href="https://discordapp.com/users/638507310808956941" target="_blank" rel="noopener noreferrer">
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" />
-</a> 
+[![Linkedin](https://img.shields.io/badge/Linkedin%20-0a66c2.svg)](https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/638507310808956941)  
 
 ## 👨‍💻 Programming and Markup Languages
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css&logoColor=white" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-306998.svg?logo=python&logoColor=white" />
-</a>
-<a href="https://dart.dev/" target="_blank">
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&logoColor=white" />
-</a>
+[![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/-CSS-1572B6.svg?logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Python](https://img.shields.io/badge/-Python-306998.svg?logo=python&logoColor=white)](https://www.python.org/)  
+[![Dart](https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&logoColor=white)](https://dart.dev/)  
 
-## 🧰 Frameworks <!--  and Libraries -->
+## 🧰 Frameworks
 
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&logoColor=white" />
-</a>
-<a href="https://flutter.dev/" target="_blank">
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&logoColor=white" />
-</a>
+[![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)  
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&logoColor=white)](https://flutter.dev/)  
 
-## 🗄️ Databases <!--  and Cloud Hosting -->
+## 🗄️ Databases
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F.svg?logo=mysql&logoColor=white" />
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57.svg?logo=sqlite&logoColor=white" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-336791.svg?logo=postgresql&logoColor=white" />
-</a>
-
+[![MySQL](https://img.shields.io/badge/-MySQL-00758F.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)  
+[![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 
 ## 💻 Software and Tools
 
@@ -70,5 +43,8 @@
 
 <br>
 
-<p>Last Edited on: 02/06/2025</p>
+<p align="center">
+  Last Edited on: 02/06/2025
+</p>
+<!-- - 📝 Sometimes I write articles on **[My website](https://)** -->
 <!-- https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
