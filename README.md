@@ -21,48 +21,62 @@
 
 ## 👨‍💻 Programming and Markup Languages
 
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-306998.svg?logo=python&logoColor=white&style=flat" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-306998.svg?logo=python&logoColor=white" />
+</a>
+<a href="https://dart.dev/" target="_blank">
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&logoColor=white" />
 </a>
 
 ## 🧰 Frameworks <!--  and Libraries -->
 
-<a href="#">
+<a href="https://www.djangoproject.com/" target="_blank">
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://flutter.dev/" target="_blank">
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&logoColor=white" />
 </a>
 
 ## 🗄️ Databases <!--  and Cloud Hosting -->
 
-<a href="#">
+<a href="https://www.mysql.com/" target="_blank">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F.svg?logo=mysql&logoColor=white" />
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57.svg?logo=sqlite&logoColor=white" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
   <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-336791.svg?logo=postgresql&logoColor=white" />
 </a>
 
+
 ## 💻 Software and Tools
 
-<a href="#" target="_blank">
+<a href="https://brave.com/" target="_blank">
   <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white" />
 </a>
-<a href="#" target="_blank">
+<a href="https://discord.com/" target="_blank">
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" />
 </a>
-<a href="#" target="_blank">
+<a href="https://git-scm.com/" target="_blank">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" />
 </a>
-<a href="#" target="_blank">
+<a href="https://github.com/" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-8034A9.svg?logo=github&logoColor=white" />
 </a>
-<a href="#" target="_blank">
+<a href="https://obsproject.com/" target="_blank">
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat" />
 </a>
-<a href="#" target="_blank"">
+<a href="https://vscodium.com/" target="_blank">
   <img alt="Vs Codium" src="https://img.shields.io/badge/Vs%20Codium-0078d7.svg?logo=vscodium&logoColor=white" />
 </a>
 
