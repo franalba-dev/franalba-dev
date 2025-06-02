@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, im Francisco J. / franalba-dev 👋 </h1> 
 
-<br>
-
-##
-
 ## 💫 Some stuff about me
 - 🎓 I am currently a **student** at [**Institut Guinovarda**](https://agora.xtec.cat/iesguinovarda/).
 - 💻 My objective is to be a **developer of web applications or cross-platform applications**.
@@ -16,10 +12,10 @@
 ## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-8034A9.svg"/>
 </a>
 <a href="https://discordapp.com/users/638507310808956941" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=discord"/>
+    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-8034A9.svg?logo=discord&logoColor=white"/>
 </a> 
 
 ## 👨‍💻 Programming and Markup Languages
@@ -63,7 +59,7 @@
   <img alt="Vs Codium" src="https://img.shields.io/badge/Vs%20Codium-0078d7.svg?logo=vscodium&logoColor=white" />
 </a>
 
-
 <br>
 
-Last Edited on: 30/05/2025
+<p>Last Edited on: 02/06/2025</p>
+<!-- https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
