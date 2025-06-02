@@ -23,7 +23,6 @@
 ## 💻 Software and Tools
 [![Brave](https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white)](https://brave.com/) [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](https://discord.com/) [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub%20-8034A9.svg?logo=github&logoColor=white)](https://github.com/) [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat)](https://obsproject.com/) [![Vs Codium](https://img.shields.io/badge/Vs%20Codium-0078d7.svg?logo=vscodium&logoColor=white)](https://vscodium.com/)
 
-
 <br>
 
 <p align="center">
