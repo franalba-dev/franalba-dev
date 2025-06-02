@@ -15,24 +15,29 @@
   <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-0a66c2.svg"/>
 </a>
 <a href="https://discordapp.com/users/638507310808956941" target="_blank" rel="noopener noreferrer">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-8034A9.svg?logo=discord&logoColor=white"/>
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" />
 </a> 
 
 ## 👨‍💻 Programming and Markup Languages
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-306998.svg?logo=python&logoColor=white" />
 </a>
 
 ## 🧰 Frameworks <!--  and Libraries -->
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=django"/>
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&logoColor=white" />
 </a>
 
 ## 🗄️ Databases <!--  and Cloud Hosting -->
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F.svg?logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57.svg?logo=sqlite&logoColor=white" />
+  <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-336791.svg?logo=postgresql&logoColor=white" />
 </a>
 
 ## 💻 Software and Tools
