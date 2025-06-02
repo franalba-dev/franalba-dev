@@ -62,9 +62,6 @@
 <a href="#" target="_blank">
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat" />
 </a>
-<a href="#" target="_blank">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=vscode&logoColor=white" />
-</a>
 <a href="#" target="_blank"">
   <img alt="Vs Codium" src="https://img.shields.io/badge/Vs%20Codium-0078d7.svg?logo=vscodium&logoColor=white" />
 </a>
