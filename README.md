@@ -6,6 +6,7 @@
 - 📍 I live in Catalonia, **Spain**.
 - 🤔 I mostly enjoy my free time programming my **own projects** and playing **video games** with my friends.
 - 💬 If you have any questions, **just ask me**.
+- ⚠️ As a student, I'm still learning many of the skills listed below. I'm using these projects as a way to improve and gain experience, so I may not yet be at an advanced level in all of them.  
 <!-- - 📝 Sometimes I write articles on **[My website](https://)** -->
 
 
@@ -19,19 +20,21 @@
 </a> 
 
 ## 👨‍💻 Programming and Markup Languages
-<p>
-  <a href="#">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-306998.svg?logo=python&logoColor=white" />
-  </a>
-</p>
+
+<a href="#">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-306998.svg?logo=python&logoColor=yellow" />
+</a>
 
 ## 🧰 Frameworks <!--  and Libraries -->
 
 <a href="#">
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-092E20.svg?logo=flutter&logoColor=white" />
 </a>
 
 ## 🗄️ Databases <!--  and Cloud Hosting -->
@@ -60,7 +63,7 @@
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat" />
 </a>
 <a href="#" target="_blank">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsco&logoColor=white" />
 </a>
 <a href="#" target="_blank"">
   <img alt="Vs Codium" src="https://img.shields.io/badge/Vs%20Codium-0078d7.svg?logo=vscodium&logoColor=white" />
