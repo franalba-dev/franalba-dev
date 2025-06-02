@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, im Francisco J. / franalba-dev 👋 </h1> 
-<img src="https://raw.githubusercontent.com/franalba-dev/franalba-dev/refs/heads/main/banner-github.png" alt="banner"></img>
 
 <br>
+
+##
 
 ## 💫 Some stuff about me
 - 🎓 I am currently a **student** at [**Institut Guinovarda**](https://agora.xtec.cat/iesguinovarda/).
