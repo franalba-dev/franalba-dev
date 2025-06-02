@@ -12,7 +12,7 @@
 ## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/francisco-alba-vilchez-7389a9351/" target="_blank" rel="noopener noreferrer">
-  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-8034A9.svg"/>
+  <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-0a66c2.svg"/>
 </a>
 <a href="https://discordapp.com/users/638507310808956941" target="_blank" rel="noopener noreferrer">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-8034A9.svg?logo=discord&logoColor=white"/>
